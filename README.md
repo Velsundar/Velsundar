@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Velsundar
 - 👀 I’m interested in ...Web developing
-- 🌱 I’m currently learning ...Front End Developing
+- 🌱 I’m  ...Front End Developer
 - 📫 How to reach me ...sundaravel.exe@gmail.com / 9786575916
 
 <!---
